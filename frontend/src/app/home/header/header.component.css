@@ -1,0 +1,15 @@
+.bgHeader {
+  background-color: rgb(103, 0, 124);
+}
+
+ul {
+  margin: auto;
+}
+a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+.headerSpacer {
+  flex: 1 1 auto;
+}
